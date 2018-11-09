@@ -4,8 +4,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/volatiletech/sqlboiler/drivers"
-	"github.com/volatiletech/sqlboiler/importers"
+	"github.com/jerko000/sqlboiler/drivers"
+	"github.com/jerko000/sqlboiler/importers"
 )
 
 // Config for the running of the commands

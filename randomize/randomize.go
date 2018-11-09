@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/volatiletech/sqlboiler/strmangle"
+	"github.com/jerko000/sqlboiler/strmangle"
 )
 
 // Randomizer allows a field to be randomized
